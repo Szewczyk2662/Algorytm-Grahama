@@ -34,6 +34,6 @@ Projekt składa się z następujących plików i klas:
 
 Projekt nie wymaga dodatkowych zależności poza standardową biblioteką C++.
 
-## Autorzy
+## Autor
 
 Projekt został stworzony przez Mateusz Szewczyk.
